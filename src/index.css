@@ -6,6 +6,10 @@
 
 @layer base {
   :root {
+    
+    
+    --primary-glow: 220 70% 70%; /* Example HSL values - adjust as needed */
+    
     /* Core Background Colors */
     --background: 45 15% 97%;
     --foreground: 25 25% 15%;
